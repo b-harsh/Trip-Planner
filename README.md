@@ -181,7 +181,7 @@ The installation process is straightforward. You can either clone the repository
 
    - To clone the repo, run the following command:
      ```sh
-     https://github.com/satendra03/trip-planner-by-satendra.git
+    https://github.com/b-harsh/Trip-Planner
      ```
    - Alternatively, you can download the ZIP file from the repository page and extract it.
 
