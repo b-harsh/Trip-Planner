@@ -180,9 +180,9 @@ The installation process is straightforward. You can either clone the repository
 1. **Clone the repository or download the ZIP file**
 
    - To clone the repo, run the following command:
-     ```sh
-    https://github.com/b-harsh/Trip-Planner
-     ```
+    
+    git clone github.com/b-harsh/Trip-Planner
+     
    - Alternatively, you can download the ZIP file from the repository page and extract it.
 
 2. **Open the project folder in a code editor**  
@@ -269,7 +269,7 @@ If you have an idea or feature that would make this project even better, please 
    Clone your forked version of the repo to your local machine.
 
    ```sh
-   git clone https://github.com/satendra03/trip-planner-by-satendra.git
+    git clone github.com/b-harsh/Trip-Planner
    ```
 
 3. **Create your feature branch**  
